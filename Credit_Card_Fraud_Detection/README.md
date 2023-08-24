@@ -8,7 +8,6 @@ Welcome to the Credit Card Fraud Detection repository! This project focuses on b
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
@@ -52,16 +51,6 @@ Our approach to Credit Card Fraud Detection can be summarized in the following s
    pip install -r requirements.txt
    ```
 
-## Usage
-
-To use our Credit Card Fraud Detection model:
-
-1. Prepare your input data or utilize the provided credit card transaction dataset.
-2. Run the detection script:
-   ```bash
-   python detect_fraud.py
-   ```
-3. Follow the prompts to input transaction details for fraud detection.
 
 ## Results
 
