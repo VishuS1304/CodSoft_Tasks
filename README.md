@@ -6,8 +6,8 @@ We believe in the power of leadership and its ability to drive positive change. 
 Through mentorship programs, workshops, and collaborative projects, we empower individuals to take on leadership roles and make a difference in their respective fields.
 
 # Tasks Details (Data Science)
->> For the Data Science internship, you will need to complete at least 3
+1. For the Data Science internship, you will need to complete at least 3
 tasks for successful completion of the internship.
 
->> For the Data Science internship, you will need to complete at least 3 tasks for
+2. For the Data Science internship, you will need to complete at least 3 tasks for
 successful completion of the internship.
